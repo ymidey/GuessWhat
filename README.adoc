@@ -160,6 +160,6 @@ Ajout du paramètre 'si $cardGame est null, affecter alors un jeu de 32 par déf
 Par manque de temps, je n'ai pas pu créer la fonction 'testNull32' dans le fichier CardGame32Test.php afin de tester si cette fonction créer bien un jeu de 32 cartes si la fonction $cardGame est null.
 
 Ajout du paramètre 'tirer aléatoirement une carte' si aucune carte(valeur) a été initié dans la variable $selectedCard
-![Screenshot](https://github.com/ymidey/GuessWhat/tree/master/doc/selcards.PNG)
+![Screenshot](https://github.com/ymidey/GuessWhat/tree/master/doc/selCards.PNG)
 
 Par manque de temps, je n'ai pas pu créer la fonction 'testSortRandomCard' dans le fichier GuessTest.php afin de tester si cette fonction choisi bien une carte aléatoire dans notre jeu.
