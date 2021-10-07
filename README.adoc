@@ -46,7 +46,7 @@ Les étapes d'un scénario typique d'usage sont
 
 PHP cli opérationnel (php -version) :
 
-![Screenshot](https://github.com/ymidey/GuessWhat/tree/master/doc/php-cli.PNG)
+![Screenshot](/GuessWhat//doc/php-cli.PNG)
 
 composer opérationel (composer -V) :
 
